@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='visual-swebench',
+    name='visualswebench',
     keywords='nlp, benchmark, code',
     long_description_content_type='text/markdown',
     packages=setuptools.find_packages(),
@@ -9,7 +9,7 @@ setuptools.setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3 :: Only',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache License',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.8',
